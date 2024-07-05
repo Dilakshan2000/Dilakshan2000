@@ -7,10 +7,10 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Ａｂｏｕｔ 〟ʍз
 
 <h1 align="center">Hi 👋, I'm Dilakshan</h1>
-<h3 align="center">A passionate frontend developer from Sliit</h3>
+<h3 align="center">A passionate frontend developer from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNjBwYjBicnhnZzQ3NWl1Nzl4ZHpycDNkd2kwcXFyMDl3M3k2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" >
 
 
