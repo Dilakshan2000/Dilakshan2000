@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Dilakshan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Dilakshan</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
 - 🌱 I’m currently learning **Java, MERN Stack, Python.**
