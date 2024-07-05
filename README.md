@@ -7,7 +7,7 @@
 
 ---
 
-### :man_technologist: Ａｂｏｕｔ 〟ʍз
+###  About Me:
 
 <h1 align="center">Hi 👋, I'm Dilakshan</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
