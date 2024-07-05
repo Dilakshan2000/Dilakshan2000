@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5ZDg5OGlja3BreHFoMzJmcG85bHR0Y2lucGtoeWtlMG95cWkyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.webp" width="100%" height="150"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt3aTB6NjhhcG5lZnI4NTM2eno0NzU4aDl6YXRqa3FobWhrbG8yYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="100%" height="95"/>
 <p> <img src="https://komarev.com/ghpvc/?username=dilakshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshan2000" /> </p>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile" > </h1>
 </div>
 
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY2dWgxamJ1MnFqcTVmZWV1cmVyeWY0M3NhNXZqejVtdWtyM3Z6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN1M3lqYWl1YW9tcnZjd2JsNGM2bDFycW1xenk1OWxpZnQ5empjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="600" height="300"/>
 </div>
 
 ---
