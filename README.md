@@ -11,8 +11,7 @@
 
 ---
 
-## 💫 About Me:
-
+ <h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px></picture>  <div align="top">About Me:</div></h2>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Dilakshan</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
