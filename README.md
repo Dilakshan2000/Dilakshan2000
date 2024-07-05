@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ5aTdxZGN4amxxbnQ4YzU5ZjM5cnVyczV1dTY5Nmh5MmprcnNpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.webp" width="70%" height="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5ZDg5OGlja3BreHFoMzJmcG85bHR0Y2lucGtoeWtlMG95cWkyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.webp" width="100%" height="150"/>
 <p> <img src="https://komarev.com/ghpvc/?username=dilakshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshan2000" /> </p>
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&height=18&width=340&vCenter=true&lines=Welcome+To+My+GITHUB+Profile" > </h1>
 </div>
