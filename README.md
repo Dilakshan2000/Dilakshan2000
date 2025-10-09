@@ -10,11 +10,11 @@
 
 <!-- Animated Welcome Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Welcome+To+My+GITHUB+Profile!;Nice+to+meet+you+😊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines= Welcome+To+My+GITHUB+Profile!;Nice+to+meet+you+😊" alt="Typing SVG" />
 </h1>
 
 <!-- Main Banner -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN1M3lqYWl1YW9tcnZjd2JsNGM2bDFycW1xenk1OWxpZnQ5empjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" width="80%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN1M3lqYWl1YW9tcnZjd2JsNGM2bDFycW1xenk1OWxpZnQ5empjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" height="95" width="90%"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
