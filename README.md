@@ -14,7 +14,7 @@
 </h1>
 
 <!-- Main Banner -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN1M3lqYWl1YW9tcnZjd2JsNGM2bDFycW1xenk1OWxpZnQ5empjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" height="95" width="90%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN1M3lqYWl1YW9tcnZjd2JsNGM2bDFycW1xenk1OWxpZnQ5empjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" height="300" width="90%"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
