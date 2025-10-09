@@ -230,8 +230,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilakshan2000&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=7A7ADB&text_color=ffffff&langs_count=8" height="165" alt="dilakshan2000"/>
     </td>
   </tr>
-  <tr>
-  
+
 </table>
 
 </div>
