@@ -224,12 +224,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dilakshan2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"  height="250" 
+      <img src="https://github-readme-stats.vercel.app/api?username=dilakshan2000&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=ffffff&include_all_commits=true&count_private=true" alt="dilakshan2000" height="165"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilakshan2000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  height="250"  width="380"  alt="dilakshan2000"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilakshan2000&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=7A7ADB&text_color=ffffff&langs_count=8" height="165" alt="dilakshan2000"/>
     </td>
   </tr>
+  <tr>
   
 </table>
 
