@@ -11,7 +11,7 @@
 
 <!-- Animated Welcome Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=wWelcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 <!-- Coding Main Banner -->
@@ -45,7 +45,7 @@
       <strong>🌱 Currently Learning</strong><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/MERN-47A248?style=flat&logo=mongodb&logoColor=white" alt="MERN"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     </td>
     <td align="center" width="50%">
       <strong>💬 Ask Me About</strong><br/>
@@ -136,9 +136,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Python
+      <br>Next.js
     </td>
   </tr>
   <tr>
@@ -200,9 +200,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
-      <br>Kotlin
+      <br>Python
     </td>
   </tr>
 </table>
@@ -283,9 +283,6 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Visitor Counter -->
-
 
 <!-- Footer Message -->
 <h3 align="center">
