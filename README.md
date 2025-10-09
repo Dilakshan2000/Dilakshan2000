@@ -11,7 +11,7 @@
 
 <!-- Animated Welcome Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Wwelcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=wWelcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 <!-- Coding Main Banner -->
@@ -285,9 +285,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- Visitor Counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/dilakshan2000/count.svg" alt="Visitor Count" />
-</p>
+
 
 <!-- Footer Message -->
 <h3 align="center">
