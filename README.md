@@ -11,7 +11,7 @@
 
 <!-- Animated Welcome Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Wwelcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 <!-- Coding Main Banner -->
@@ -271,7 +271,9 @@
 
 <h2>🐍 Watch my contributions get eaten by the snake!</h2>
 
-![Snake animation](https://github.com/dilakshan2000/dilakshan2000/blob/output/github-contribution-grid-snake.svg)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 </div>
 
