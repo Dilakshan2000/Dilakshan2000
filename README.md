@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Coding Header -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="95"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt3aTB6NjhhcG5lZnI4NTM2eno0NzU4aDl6YXRqa3FobWhrbG8yYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="100%" height="95"/>
 
 <!-- Profile Views with Animated Badge -->
 <p>
