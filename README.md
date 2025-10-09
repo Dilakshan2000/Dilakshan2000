@@ -11,7 +11,7 @@
 
 <!-- Animated Welcome Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=500&height=50&lines=..Welcome+To+My+GitHub+Profile!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 
 <!-- Coding Main Banner -->
@@ -248,6 +248,13 @@
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilakshan2000&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contributions%20Graph&line=7A7ADB&point=7A7ADB&color=7A7ADB" width="100%"/>
+
+
+ <img  src="https://github-readme-stats.vercel.app/api?username=dilakshan2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dilakshan2000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilakshan2000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dilakshan2000"/>
+
+
 
 </div>
 
